@@ -18,7 +18,7 @@
 * Comments using Disqus
 * Analytics using Google Analytics
 * Instant Search using [Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search/)
-
+    
 # Installation :books:
 ### System Requirements
 * [Ruby](https://www.ruby-lang.org/en/)
