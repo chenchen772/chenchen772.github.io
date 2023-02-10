@@ -11,7 +11,7 @@ title: CPREgroup
 # Description of the Site
 description: Computational Photography Research & Engineering
 # URL of Image of the Site
-site-image: assets/images/meta.jpg
+site-image: assets/images/background.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
@@ -43,11 +43,26 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: chenchen772
 # URL for the Image of the Author
-author-image: assets/images/logo.jpg
+author-image: assets/images/lyq.jpg
 # 60 Words About the Author
-author-about: 在浙大本硕博导师的带领下，让我们一起畅游在CV的世界里吧～
+author-about: 教育背景：访问学者（2013-2014） 合作导师 Prof.Aditi Majumder
+美国加州大学欧文分校（UCI）
+
+博士研究生 (2010-2016) 导师 鲁东明教授
+浙江大学计算机科学与技术学院
+本科 (2006-2010)
+浙江大学计算机科学与技术学院
+
+工作经历：宁波大学信息学院 副教授（2016-至今）
+
+高级访问学者（2019-2021） 导师 IEEE Fellow Prof. Wolfgang Heidrich
+沙特阿卜杜拉国王科技大学
+
+
+
+目前从事的主要研究工作：研究领域包括深度学习，图像处理，计算摄影，计算显示。
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/chenchen772
+author-url: https://github.com/CPREgroup
 
 # SASS
 sass:
