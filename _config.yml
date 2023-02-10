@@ -11,7 +11,7 @@ title: CPREgroup
 # Description of the Site
 description: Computational Photography Research & Engineering
 # URL of Image of the Site
-site-image: assets/images/user.jpg
+site-image: assets/images/logo.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
@@ -44,7 +44,7 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: chenchen772
 # URL for the Image of the Author
-author-image: assets/images/logo.jpg
+author-image: assets/images/user.jpg
 # 60 Words About the Author
 author-about: 目前从事的主要研究工作：研究领域包括深度学习，图像处理，计算摄影，计算显示。
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
