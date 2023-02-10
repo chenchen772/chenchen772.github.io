@@ -29,13 +29,14 @@ a.navbar-item.is-active {
 
     &:hover {
         background-color: rgba($color: #fff, $alpha: 0.25) !important;
-//      color: grey;
+//      color: grey; 测试
         color: white;
     }
 }
 
 .navbar-link:not(.is-arrowless)::after {
-    border-color: grey;
+//  border-color: grey;
+    border-color: white;
 }
 
 
