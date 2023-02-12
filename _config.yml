@@ -76,6 +76,7 @@ defaults:
       layout: post
       post-image: ""
       description: ""
+      author: ""
       selected: false
       type: "blog"
       tags:
