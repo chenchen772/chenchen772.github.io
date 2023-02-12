@@ -25,10 +25,11 @@ heroimage: assets/images/background.jpg
 # If you don't want to use any icon, you can leave them blank.
 email: 1136954568@qq.com
 #facebook_username: thedevslot
-#twitter_username: thedevslot
+twitter_username: python
 #instagram_username: thedevslot
 #linkedin_username: thedevslot
 github_username: CPREgroup
+google_email: xinyuchen970@gmail.com
 #youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
 #reddit_username: /
 #behance_username: /
@@ -44,9 +45,9 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: Yuqi Li
 # URL for the Image of the Author
-author-image: assets/images/users.jpg
+author-image: assets/images/user.jpg
 # 60 Words About the Author
-author-about: 目前从事的主要研究工作：研究领域包括深度学习，图像处理，计算摄影，计算显示。
+author-about: 目前从事的主要研究工作：研究领域包括深度学习，图像处理，计算摄影，计算显示。目前从事的主要研究工作：研究领域包括深度学习，图像处理，计算摄影，计算显示。目前从事的主要研究工作：研究领域包括深度学习，图像处理，计算摄影，计算显示。目前从事的主要研究工作：研究领域包括深度学习，图像处理，计算摄影，计算显示。目前从事的主要研究工作：研究领域包括深度学习，图像处理，计算摄影，计算显示。目前从事的主要研究工作：研究领域包括深度学习，图像处理，计算摄影，计算显示。
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/CPREgroup
 
@@ -75,6 +76,8 @@ defaults:
       layout: post
       post-image: ""
       description: ""
+      selected: false
+      type: "blog"
       tags:
         - ""
   - scope:

@@ -1,7 +1,7 @@
 ---
-title: 我是测试文章标题
-type: blog
-selected: true
+title: 我是项目描述文章
+type: project
+selected: false
 layout: post
 post-image: "/assets/images/logo.jpg"
 description: 简介-我是简介
