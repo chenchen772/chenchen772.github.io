@@ -76,7 +76,8 @@ defaults:
       layout: post
       post-image: ""
       description: ""
-      author: ""
+      author: "Yuqi Li"
+      author-link: "/"
       selected: false
       type: "blog"
       tags:
