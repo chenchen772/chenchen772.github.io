@@ -3,6 +3,8 @@ title: 我是测试文章标题
 type: blog
 selected: true
 layout: post
+author: 张三
+author-link: "https://baidu.com"
 post-image: "/assets/images/logo.jpg"
 description: 简介-我是简介
 tags:
