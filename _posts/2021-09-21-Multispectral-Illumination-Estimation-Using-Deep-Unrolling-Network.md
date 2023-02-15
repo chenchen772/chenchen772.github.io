@@ -1,7 +1,7 @@
 ---
 title: Multispectral Illumination Estimation Using Deep Unrolling Network
 type: blog
-selected: false
+selected: true
 layout: post
 post-image: "/assets/images/Multispectral.png"
 description: As an intrinsic physical property of materials, spectral reflectance is a rich information source for a wide range of vision tasks, including object recognition and material reproduction, as well as man technical and scientific imaging problems. However, the acquisition of accurate spectral reflectance images requires an extra per-image calibration to compensate for the illumination conditions in the scene, for example with a known reference [21] or a dedicated measurement device [2]. Unfortunately this calibration is generally cumbersome and frequently fails in complex lighting situations with multiple, different illumination sources.
