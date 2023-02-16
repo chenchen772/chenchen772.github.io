@@ -5,7 +5,7 @@ layout: page
 
 |                                        *                                |                                      毕业生                              |                                 *                                                     |
 |:------------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
-|                                                                            |                                                                     |                                                                                                 |
+
 
 
 | <img src="/assets/images/people/txy.jpg" style="border-radius: 50%;" width = "200" height = "200"/> | <img src="/assets/images/people/ywt.JPG" style="border-radius: 50%;" width = "200" height = "200"/> | <img src="/assets/images/people/ljb.JPG" style="border-radius: 50%;" width = "200" height = "200"/> |
