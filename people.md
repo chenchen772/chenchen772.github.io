@@ -21,9 +21,7 @@
                 <td style="text-align: center">3D重建</td>
             </tr>
         </tbody>
-    </table>
-
-    <table>
+ 
         <thead>
             <tr>
                 <th style="text-align: center"><img src="/assets/images/people/scl.JPG" style="border-radius: 50%;"
@@ -46,9 +44,7 @@
                 <td style="text-align: center">深度学习</td>
             </tr>
         </tbody>
-    </table>
-
-    <table>
+ 
         <thead>
             <tr>
                 <th style="text-align: center"><img src="/assets/images/people/xjh.JPG" style="border-radius: 50%;"
