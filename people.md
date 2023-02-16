@@ -58,6 +58,5 @@ layout: page
                 <td style="text-align: center">视频压缩</td>
                 <td style="text-align: center">深度学习</td>
             </tr>
-
     </table>
 </h3>
