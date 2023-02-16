@@ -22,11 +22,11 @@ layout: page
                 <td style="text-align: center">3D重建</td>
             </tr>
             <tr>
-                <th style="text-align: center"><img src="/assets/images/people/scl.JPG" style="border-radius: 50%;"
+                <th style="text-align: center"><img src="/assets/images/people/scl.jpg" style="border-radius: 50%;"
                                                     width="200" height="200"></th>
-                <th style="text-align: center"><img src="/assets/images/people/mxy.JPG" style="border-radius: 50%;"
+                <th style="text-align: center"><img src="/assets/images/people/mxy.jpg" style="border-radius: 50%;"
                                                     width="200" height="200"></th>
-                <th style="text-align: center"><img src="/assets/images/people/cxy.JPG" style="border-radius: 50%;"
+                <th style="text-align: center"><img src="/assets/images/people/cxy.jpg" style="border-radius: 50%;"
                                                     width="200" height="200"></th>
             </tr>
             <tr>
@@ -40,11 +40,11 @@ layout: page
                 <td style="text-align: center">深度学习</td>
             </tr>
             <tr>
-                <th style="text-align: center"><img src="/assets/images/people/xjh.JPG" style="border-radius: 50%;"
+                <th style="text-align: center"><img src="/assets/images/people/xjh.jpg" style="border-radius: 50%;"
                                                     width="200" height="200"></th>
-                <th style="text-align: center"><img src="/assets/images/people/zsj.JPG" style="border-radius: 50%;"
+                <th style="text-align: center"><img src="/assets/images/people/zsj.jpg" style="border-radius: 50%;"
                                                     width="200" height="200"></th>
-                <th style="text-align: center"><img src="/assets/images/people/txy.JPG" style="border-radius: 50%;"
+                <th style="text-align: center"><img src="/assets/images/people/txy.jpg" style="border-radius: 50%;"
                                                     width="200" height="200"></th>
             </tr>
             <tr>
