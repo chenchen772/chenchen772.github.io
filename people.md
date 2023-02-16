@@ -3,28 +3,27 @@ title: people
 layout: page
 ---
 <h4>
-        毕业生
+        <div style="text-align: left;width: 100%">毕业生</div>
         <table class="people-table">
             <tr>
                 <th style="text-align: left">
                     <img src="/assets/images/people/wyj.JPG" style="border-radius: 50%;width: 200px;height: 200px">
                 </th>
-                <th style="text-align: center"></th>
-                <th style="text-align: center"></th>
+                <th style="text-align: center"> </th>
+                <th style="text-align: center"> </th>
             </tr>
             <tr>
-                <td style="text-align: left"><a href="https://github.com/Txy-study">田雪燕</a></td>
-                <td></td>
-                <td></td>
+                <td style="text-align: center"><a href="https://github.com/Txy-study">田雪燕</a></td>
+                <td> </td>
+                <td> </td>
             </tr>
             <tr>
-                <td style="text-align: left">深度学习</td>
-                <td></td>
-                <td></td>
+                <td style="text-align: center">深度学习</td>
+                <td> </td>
+                <td> </td>
             </tr>
         </table>
-        <p></p>
-        在校生
+        <div style="text-align: left;width: 100%;margin-top: 20px">在校生</div>
         <table>
             <tr>
                 <th style="text-align: center">
