@@ -1,70 +1,22 @@
-<table>
-        <thead>
-            <tr>
-                <th style="text-align: center"><img src="/assets/images/people/wyj.JPG" style="border-radius: 50%;"
-                                                    width="200" height="200"></th>
-                <th style="text-align: center"><img src="/assets/images/people/ywt.JPG" style="border-radius: 50%;"
-                                                    width="200" height="200"></th>
-                <th style="text-align: center"><img src="/assets/images/people/ljb.JPG" style="border-radius: 50%;"
-                                                    width="200" height="200"></th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td style="text-align: center"><a href="https://github.com/linux">汪一江</a></td>
-                <td style="text-align: center"><a href="https://github.com/ywt123abc">殷文婷</a></td>
-                <td style="text-align: center"><a href="https://github.com/TIMESTICKING">李佳宝</a></td>
-            </tr>
-            <tr>
-                <td style="text-align: center">深度学习</td>
-                <td style="text-align: center">深度学习、图像处理</td>
-                <td style="text-align: center">3D重建</td>
-            </tr>
-        </tbody>
- 
-        <thead>
-            <tr>
-                <th style="text-align: center"><img src="/assets/images/people/scl.JPG" style="border-radius: 50%;"
-                                                    width="200" height="200"></th>
-                <th style="text-align: center"><img src="/assets/images/people/mxy.JPG" style="border-radius: 50%;"
-                                                    width="200" height="200"></th>
-                <th style="text-align: center"><img src="/assets/images/people/cxy.JPG" style="border-radius: 50%;"
-                                                    width="200" height="200"></th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td style="text-align: center"><a href="https://github.com/sunciliang">孙辞量</a></td>
-                <td style="text-align: center"><a href="https://github.com/meixiaoyinn">梅校寅</a></td>
-                <td style="text-align: center"><a href="https://github.com/chenchen772">陈欣宇</a></td>
-            </tr>
-            <tr>
-                <td style="text-align: center">3D重建</td>
-                <td style="text-align: center">压缩感知</td>
-                <td style="text-align: center">深度学习</td>
-            </tr>
-        </tbody>
- 
-        <thead>
-            <tr>
-                <th style="text-align: center"><img src="/assets/images/people/xjh.JPG" style="border-radius: 50%;"
-                                                    width="200" height="200"></th>
-                <th style="text-align: center"><img src="/assets/images/people/zsj.JPG" style="border-radius: 50%;"
-                                                    width="200" height="200"></th>
-                <th style="text-align: center"><img src="/assets/images/people/txy.JPG" style="border-radius: 50%;"
-                                                    width="200" height="200"></th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td style="text-align: center"><a href="https://github.com/a656418zz">向锦辉</a></td>
-                <td style="text-align: center"><a href="https://github.com/lewis-101">张世杰</a></td>
-                <td style="text-align: center"><a href="https://github.com/Txy-study">田雪燕</a></td>
-            </tr>
-            <tr>
-                <td style="text-align: center">3D重建</td>
-                <td style="text-align: center">视频压缩</td>
-                <td style="text-align: center">深度学习</td>
-            </tr>
-        </tbody>
-    </table>
+---
+title: people
+layout: page
+---
+
+# Heading level 1
+| <img src="/assets/images/people/txy.jpg" style="border-radius: 50%;" width = "200" height = "200"/> | <img src="/assets/images/people/ywt.JPG" style="border-radius: 50%;" width = "200" height = "200"/> | <img src="/assets/images/people/ljb.JPG" style="border-radius: 50%;" width = "200" height = "200"/> |
+|:------------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
+|                      [田雪燕](https://github.com/Txy-study)                       |                     [殷文婷](https://github.com/ywt123abc)                      |                               [李佳宝](https://github.com/TIMESTICKING)                                |
+|                                      深度学习                                      |                                  深度学习、图像处理                                   |                                                3D重建                                                 |
+
+# Heading level 1
+| <img src="/assets/images/people/wyj.JPG" style="border-radius: 50%;" width = "200" height = "200"/> | <img src="/assets/images/people/mxy.jpg" style="border-radius: 50%;" width = "200" height = "200"/> | <img src="/assets/images/people/scl.JPG" style="border-radius: 50%;" width = "200" height = "200"/> |
+|:-------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|:-----------------------------------------------------------------------:|
+|                      [汪一江](https://github.com/linux)                       |                     [梅校寅](https://github.com/meixiaoyinn)                      |                     [孙辞量](https://github.com/sunciliang)                      |
+|                                   生成模型                                    |                                  压缩感知                                   |                                  3D重建                                   |
+
+
+| <img src="/assets/images/people/cxy.jpg" style="border-radius: 50%;" width = "200" height = "200"/> | <img src="/assets/images/people/xjh.JPG" style="border-radius: 50%;" width = "200" height = "200"/> | <img src="/assets/images/people/zsj.jpg" style="border-radius: 50%;" width = "200" height = "200"/> |
+|:-------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|:-----------------------------------------------------------------------:|
+|                      [陈欣宇](https://github.com/chenchen772)                       |                     [向锦辉](https://github.com/a656418zz)                      |                     [张世杰](https://github.com/lewis-101)                      |
+|                                   深度学习                                    |                                  3D重建                                   |                                  视频压缩                                   |
