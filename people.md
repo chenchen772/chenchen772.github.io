@@ -10,7 +10,7 @@ layout: page
 |                                      深度学习                                      |                                  深度学习、图像处理                                   |                                                3D重建                                                 |
 
 
-|  | <img src="/assets/images/people/mxy.jpg" style="border-radius: 50%;" width = "200" height = "200"/> | <img src="/assets/images/people/scl.JPG" style="border-radius: 50%;" width = "200" height = "200"/> |
+| <img src="/assets/images/people/scl.JPG" style="border-radius: 50%;" width = "200" height = "200"/> | <img src="/assets/images/people/mxy.jpg" style="border-radius: 50%;" width = "200" height = "200"/> |  |
 |:-------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|:-----------------------------------------------------------------------:|
 |                      [孙辞量](https://github.com/sunciliang)                       |                     [梅校寅](https://github.com/meixiaoyinn)                      |                                           |
 |                                   3D重建                                    |                                  压缩感知                                   |                                                                     |
