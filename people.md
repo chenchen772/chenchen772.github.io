@@ -7,7 +7,7 @@ layout: page
         <table class="people-table">
             <tr>
                 <th style="text-align: center;width: 33.3%">
-                    <img src="/assets/images/people/txy.JPG" style="border-radius: 50%;width: 200px;height: 200px">
+                    <img src="/assets/images/people/txy.jpg" style="border-radius: 50%;width: 200px;height: 200px">
                 </th>
                 <th style="text-align: center"> </th>
                 <th style="text-align: center"> </th>
