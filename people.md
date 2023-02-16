@@ -3,7 +3,29 @@ title: people
 layout: page
 ---
 <h3>
-<table>
+        毕业生
+        <table class="people-table">
+            <tr>
+                <th style="text-align: center">
+                    <img src="/assets/images/people/wyj.JPG" style="border-radius: 50%;width: 200px;height: 200px">
+                </th>
+                <th style="text-align: center"></th>
+                <th style="text-align: center"></th>
+            </tr>
+            <tr>
+                <td style="text-align: center"><a href="https://github.com/Txy-study">田雪燕</a></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td style="text-align: center">深度学习</td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>
+        <p></p>
+        在校生
+        <table>
             <tr>
                 <th style="text-align: center"><img src="/assets/images/people/wyj.JPG" style="border-radius: 50%;"
                                                     width="200" height="200"></th>
@@ -45,18 +67,18 @@ layout: page
                                                     width="200" height="200"></th>
                 <th style="text-align: center"><img src="/assets/images/people/zsj.jpg" style="border-radius: 50%;"
                                                     width="200" height="200"></th>
-                <th style="text-align: center"><img src="/assets/images/people/txy.jpg" style="border-radius: 50%;"
-                                                    width="200" height="200"></th>
+                <th style="text-align: center"></th>
             </tr>
             <tr>
                 <td style="text-align: center"><a href="https://github.com/a656418zz">向锦辉</a></td>
                 <td style="text-align: center"><a href="https://github.com/lewis-101">张世杰</a></td>
-                <td style="text-align: center"><a href="https://github.com/Txy-study">田雪燕</a></td>
+                <td style="text-align: center"><a href="https://github.com/Txy-study"></a></td>
             </tr>
             <tr>
                 <td style="text-align: center">3D重建</td>
                 <td style="text-align: center">视频压缩</td>
-                <td style="text-align: center">深度学习</td>
+                <td style="text-align: center"></td>
             </tr>
-    </table>
-</h3>
+            </tbody>
+        </table>
+    </h3>
