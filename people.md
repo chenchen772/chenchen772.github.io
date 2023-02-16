@@ -2,6 +2,7 @@
 title: people
 layout: page
 ---
+<h3>
 <table>
             <tr>
                 <th style="text-align: center"><img src="/assets/images/people/wyj.JPG" style="border-radius: 50%;"
@@ -57,5 +58,6 @@ layout: page
                 <td style="text-align: center">视频压缩</td>
                 <td style="text-align: center">深度学习</td>
             </tr>
-        </tbody>
+
     </table>
+</h3>
