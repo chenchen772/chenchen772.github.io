@@ -1,3 +1,8 @@
+---
+title: people
+layout: page
+---
+
 <style>
         .people-table img {
             border-radius: 50%;
