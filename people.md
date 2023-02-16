@@ -3,19 +3,7 @@ title: people
 layout: page
 ---
 
-<style>
-        .people-table img {
-            border-radius: 50%;
-            width: 200px;
-            height: 200px;
-        }
-        
-        .people-table{
-            font-size: 18px;
-        }
-    </style>
-
-    <table class="people-table">
+    <table>
         <tr>
             <th style="text-align: center">
                 <img src="/assets/images/people/wyj.JPG" style="border-radius: 50%;width: 200px;height: 200px">
