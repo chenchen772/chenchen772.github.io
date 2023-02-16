@@ -3,13 +3,11 @@ title: people
 layout: page
 ---
 
-# Heading level 1
 | <img src="/assets/images/people/txy.jpg" style="border-radius: 50%;" width = "200" height = "200"/> | <img src="/assets/images/people/ywt.JPG" style="border-radius: 50%;" width = "200" height = "200"/> | <img src="/assets/images/people/ljb.JPG" style="border-radius: 50%;" width = "200" height = "200"/> |
 |:------------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
 |                      [田雪燕](https://github.com/Txy-study)                       |                     [殷文婷](https://github.com/ywt123abc)                      |                               [李佳宝](https://github.com/TIMESTICKING)                                |
 |                                      深度学习                                      |                                  深度学习、图像处理                                   |                                                3D重建                                                 |
 
-# Heading level 1
 | <img src="/assets/images/people/wyj.JPG" style="border-radius: 50%;" width = "200" height = "200"/> | <img src="/assets/images/people/mxy.jpg" style="border-radius: 50%;" width = "200" height = "200"/> | <img src="/assets/images/people/scl.JPG" style="border-radius: 50%;" width = "200" height = "200"/> |
 |:-------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|:-----------------------------------------------------------------------:|
 |                      [汪一江](https://github.com/linux)                       |                     [梅校寅](https://github.com/meixiaoyinn)                      |                     [孙辞量](https://github.com/sunciliang)                      |
