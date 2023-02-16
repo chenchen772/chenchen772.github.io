@@ -1,5 +1,5 @@
 ---
-title: Busifusion: Blind unsupervised single image fusion of hyperspectral and rgb images
+title: Busifusion Blind unsupervised single image fusion of hyperspectral and rgb images
 type: blog
 selected: true
 layout: post
